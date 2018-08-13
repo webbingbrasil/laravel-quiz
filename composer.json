@@ -1,0 +1,28 @@
+{
+    "name": "webbingbrasil/laravel-quiz",
+    "description": "A basic quiz implementation for laravel.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Danilo Andrade",
+            "email": "mandrade.danilo@gmail.com"
+        }
+    ],
+    "require": {
+        "php"                 : ">=5.6.4|^7.0",
+        "illuminate/support"  : ">=5.3",
+        "illuminate/database" : ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "WebbingBrasil\\Quiz\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "WebbingBrasil\\Quiz\\Providers\\QuizServiceProvider"
+            ]
+        }
+    }
+}
