@@ -6,7 +6,7 @@ A basic quiz implementation for laravel
 Install package via composer
 
 ```bash
-composer require "webbingbrasil/laravel-quiz=0.1.0"
+composer require "webbingbrasil/laravel-quiz=1.0.0"
 ```
 
 Next, if you are using Laravel prior to 5.5, register the service provider in the providers array of your config/app.php configuration file:
