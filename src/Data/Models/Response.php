@@ -1,4 +1,16 @@
 <?php
+/**
+ *  Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br)
+ *  All Rights Reserved
+ *
+ *  This file is part of the calculadora-triunfo project.
+ *
+ *  @project calculadora-triunfo
+ *  @file Response.php
+ *  @author Danilo Andrade <danilo@webbingbrasil.com.br>
+ *  @date 13/08/18 at 12:19
+ *  @copyright  Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br)
+ */
 
 namespace WebbingBrasil\Quiz\Data\Models;
 

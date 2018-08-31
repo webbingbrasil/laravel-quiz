@@ -1,5 +1,18 @@
 <?php
 /**
+ *  Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br)
+ *  All Rights Reserved
+ *
+ *  This file is part of the calculadora-triunfo project.
+ *
+ *  @project calculadora-triunfo
+ *  @file QuizServiceProvider.php
+ *  @author Danilo Andrade <danilo@webbingbrasil.com.br>
+ *  @date 13/08/18 at 12:45
+ *  @copyright  Copyright (c) 2018 Webbing Brasil (http://www.webbingbrasil.com.br)
+ */
+
+/**
  * Created by PhpStorm.
  * User: Danilo
  * Date: 10/08/2018
